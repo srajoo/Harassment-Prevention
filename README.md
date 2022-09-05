@@ -119,10 +119,6 @@ This is the main entry point of the application.
 
 The script handles loading and setup of the visual 3D environment of your scene. It also creates the camera used by the application.
 
-**conversation-controller.js** 
-
-This script manages the flow of the chatbot conversation. If you want to change how the app handles user input or how it responds to chatbot responses, do that here.
-
 **lex-bot.js** 
 
 This script provides a simple API for interacting with any Lex bot.
